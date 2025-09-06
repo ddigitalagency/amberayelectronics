@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "ddigitalagency",
+        "email": "info@ddigitalagency.in"
+    },
+    "records": {
+        "CNAME": "cname.vercel-dns.com"
+    }
+}
